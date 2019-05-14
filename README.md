@@ -5,7 +5,7 @@ and use pagination to show some data in pages
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Project Demo
-https://dashboard.heroku.com/apps/skeleton-loader
+https://skeleton-loader.herokuapp.com/
 
 ## Available Scripts
 clone project then
